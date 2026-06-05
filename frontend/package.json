@@ -8,6 +8,7 @@
     "start": "next start -p 3000"
   },
   "dependencies": {
+    "@copilotkit/react-core": "^1.59.5",
     "next": "^16.2.7",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"

@@ -4,3 +4,14 @@
 # Skills
 .agents/
 skills-lock.json
+
+# Python
+.venv/
+**/__pycache__/
+
+# Nodejs
+node_modules/
+.next/
+
+# Local env files
+.env.local
