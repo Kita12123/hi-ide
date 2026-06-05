@@ -13,9 +13,3 @@ npx skills add CopilotKit/CopilotKit/skills --all
 
 ## Obsidian
 Please copy ".obsidian" folder from project root of https://github.com/Kita12123/dev-ctx to this project root directory.
-
-## Python
-Please run the following command to install required Python packages.
-```shell
-uv sync
-```
